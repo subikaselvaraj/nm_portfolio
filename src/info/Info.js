@@ -56,8 +56,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Subika S"
-    Final-Year BE Computer Science and Engineering Student As a dedicated final-year student pursuing a Bachelor of Engineering in Computer Science and Engineering at PGP College of Engineering and Technology, I have developed a strong foundation in programming, software development, and data analysis. Throughout my studies, I have gained hands-on experience in [Python], along with a solid understanding of algorithms and data structures. I am passionate about applying technical skills to solve real-world challenges and am eager to contribute to innovative projects in the tech industry.",
+    bio: "Subika S Final-Year BE Computer Science and Engineering Student As a dedicated final-year student pursuing a Bachelor of Engineering in Computer Science and Engineering at PGP College of Engineering and Technology, I have developed a strong foundation in programming, software development, and data analysis. Throughout my studies, I have gained hands-on experience in [Python], along with a solid understanding of algorithms and data structures. I am passionate about applying technical skills to solve real-world challenges and am eager to contribute to innovative projects in the tech industry.",
     skills:
         {
             proficientWith: ['python', 'Web Development'],
